@@ -1,0 +1,3 @@
+Meanwhile, this text is written in file file2.txt
+And we just added another line
+
