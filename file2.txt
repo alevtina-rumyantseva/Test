@@ -1,3 +1,7 @@
 Meanwhile, this text is written in file file2.txt
 And we just added another line
 
+After a few minutes we added yet another line
+The line business is going good
+
+
